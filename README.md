@@ -27,9 +27,9 @@ We will focus on the following set of requirements while designing the Library M
 
 We have three main actors in our system:
 
-##Librarian: Mainly responsible for adding and modifying books, book items, and users. The Librarian can also issue, reserve, and return book items.
-##Member: All members can search the catalog, as well as check-out, reserve, renew, and return a book.
-##System: Mainly responsible for sending notifications for overdue books, canceled reservations, etc.
+Librarian: Mainly responsible for adding and modifying books, book items, and users. The Librarian can also issue, reserve, and return book items.
+Member: All members can search the catalog, as well as check-out, reserve, renew, and return a book.
+System: Mainly responsible for sending notifications for overdue books, canceled reservations, etc.
 
 Here are the top use cases of the Library Management System:
 
