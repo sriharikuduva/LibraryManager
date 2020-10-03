@@ -1,7 +1,7 @@
 # LibraryManager
 ### System Requirements
 
-We will focus on the following set of requirements while designing the Library Management System:
+We will focus on the following set of requirements while designing the metadata.Library Management System:
 
 1) Any library member should be able to search books by their title, author, subject category as well by the publication date.
 
@@ -33,7 +33,7 @@ Member: All members can search the catalog, as well as check-out, reserve, renew
 
 System: Mainly responsible for sending notifications for overdue books, canceled reservations, etc.
 
-Here are the top use cases of the Library Management System:
+Here are the top use cases of the metadata.Library Management System:
 
 1) Add/Remove/Edit book: To add, remove or modify a book or book item.
 2) Search catalog: To search books by title, author, subject or publication date.
